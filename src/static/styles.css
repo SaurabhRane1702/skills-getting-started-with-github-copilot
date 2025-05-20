@@ -165,10 +165,6 @@ footer {
   font-size: 15px;
 }
 
-.participants-list li {
-  margin-left: 20px; /* Indent bullets to align with label */
-}
-
 .no-participants {
   color: #888;
   font-style: italic;
